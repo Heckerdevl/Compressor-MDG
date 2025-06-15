@@ -95,9 +95,6 @@ Edit
 ## ⚙️ Installation & Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/compression-app.git
-cd compression-app
 
 # Install dependencies
 npm install
